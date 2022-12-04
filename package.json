@@ -1,6 +1,6 @@
 {
   "name": "register",
-  "homepage": "http://iamalaziz.github.com/register-form-validation",
+  "homepage": "http://iamalaziz.github.com/register-validation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
